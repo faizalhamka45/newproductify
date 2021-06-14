@@ -1,0 +1,102 @@
+D:\Universitas Gadjah Mada\Akademis -- TIF 2018\Semester 2\Praktikum PBO\Tugas Akhir\AsistenBelajar\AsistenBelajar\bin\Debug\AsistenBelajar.exe.config
+D:\Universitas Gadjah Mada\Akademis -- TIF 2018\Semester 2\Praktikum PBO\Tugas Akhir\AsistenBelajar\AsistenBelajar\bin\Debug\AsistenBelajar.exe
+D:\Universitas Gadjah Mada\Akademis -- TIF 2018\Semester 2\Praktikum PBO\Tugas Akhir\AsistenBelajar\AsistenBelajar\bin\Debug\AsistenBelajar.pdb
+D:\Universitas Gadjah Mada\Akademis -- TIF 2018\Semester 2\Praktikum PBO\Tugas Akhir\AsistenBelajar\AsistenBelajar\obj\Debug\AsistenBelajar.csprojAssemblyReference.cache
+D:\Universitas Gadjah Mada\Akademis -- TIF 2018\Semester 2\Praktikum PBO\Tugas Akhir\AsistenBelajar\AsistenBelajar\obj\Debug\AsistenBelajar.FormUtama.resources
+D:\Universitas Gadjah Mada\Akademis -- TIF 2018\Semester 2\Praktikum PBO\Tugas Akhir\AsistenBelajar\AsistenBelajar\obj\Debug\AsistenBelajar.Properties.Resources.resources
+D:\Universitas Gadjah Mada\Akademis -- TIF 2018\Semester 2\Praktikum PBO\Tugas Akhir\AsistenBelajar\AsistenBelajar\obj\Debug\AsistenBelajar.csproj.GenerateResource.cache
+D:\Universitas Gadjah Mada\Akademis -- TIF 2018\Semester 2\Praktikum PBO\Tugas Akhir\AsistenBelajar\AsistenBelajar\obj\Debug\AsistenBelajar.csproj.CoreCompileInputs.cache
+D:\Universitas Gadjah Mada\Akademis -- TIF 2018\Semester 2\Praktikum PBO\Tugas Akhir\AsistenBelajar\AsistenBelajar\obj\Debug\AsistenBelajar.exe
+D:\Universitas Gadjah Mada\Akademis -- TIF 2018\Semester 2\Praktikum PBO\Tugas Akhir\AsistenBelajar\AsistenBelajar\obj\Debug\AsistenBelajar.pdb
+D:\Universitas Gadjah Mada\Akademis -- TIF 2018\Semester 2\Praktikum PBO\Tugas Akhir\AsistenBelajar\AsistenBelajar\bin\Debug\DatabaseAgenda.mdf
+D:\Universitas Gadjah Mada\Akademis -- TIF 2018\Semester 2\Praktikum PBO\Tugas Akhir\AsistenBelajar\AsistenBelajar\bin\Debug\DatabaseAgenda_log.ldf
+D:\Universitas Gadjah Mada\Akademis -- TIF 2018\Semester 2\Praktikum PBO\Tugas Akhir\AsistenBelajar\AsistenBelajar\bin\Debug\EntityFramework.dll
+D:\Universitas Gadjah Mada\Akademis -- TIF 2018\Semester 2\Praktikum PBO\Tugas Akhir\AsistenBelajar\AsistenBelajar\bin\Debug\EntityFramework.SqlServer.dll
+D:\Universitas Gadjah Mada\Akademis -- TIF 2018\Semester 2\Praktikum PBO\Tugas Akhir\AsistenBelajar\AsistenBelajar\bin\Debug\EntityFramework.xml
+D:\Universitas Gadjah Mada\Akademis -- TIF 2018\Semester 2\Praktikum PBO\Tugas Akhir\AsistenBelajar\AsistenBelajar\bin\Debug\EntityFramework.SqlServer.xml
+D:\Universitas Gadjah Mada\Akademis -- TIF 2018\Semester 2\Praktikum PBO\Tugas Akhir\AsistenBelajar\AsistenBelajar\obj\Debug\AsistenBelajar.csproj.CopyComplete
+D:\Universitas Gadjah Mada\Akademis -- TIF 2018\Coding Mandiri\Semester 2\AsistenBelajar\AsistenBelajar\bin\Debug\DatabaseAgenda.mdf
+D:\Universitas Gadjah Mada\Akademis -- TIF 2018\Coding Mandiri\Semester 2\AsistenBelajar\AsistenBelajar\bin\Debug\DatabaseAgenda_log.ldf
+D:\Universitas Gadjah Mada\Akademis -- TIF 2018\Coding Mandiri\Semester 2\AsistenBelajar\AsistenBelajar\bin\Debug\AsistenBelajar.exe.config
+D:\Universitas Gadjah Mada\Akademis -- TIF 2018\Coding Mandiri\Semester 2\AsistenBelajar\AsistenBelajar\bin\Debug\AsistenBelajar.exe
+D:\Universitas Gadjah Mada\Akademis -- TIF 2018\Coding Mandiri\Semester 2\AsistenBelajar\AsistenBelajar\bin\Debug\AsistenBelajar.pdb
+D:\Universitas Gadjah Mada\Akademis -- TIF 2018\Coding Mandiri\Semester 2\AsistenBelajar\AsistenBelajar\bin\Debug\EntityFramework.dll
+D:\Universitas Gadjah Mada\Akademis -- TIF 2018\Coding Mandiri\Semester 2\AsistenBelajar\AsistenBelajar\bin\Debug\EntityFramework.SqlServer.dll
+D:\Universitas Gadjah Mada\Akademis -- TIF 2018\Coding Mandiri\Semester 2\AsistenBelajar\AsistenBelajar\bin\Debug\EntityFramework.xml
+D:\Universitas Gadjah Mada\Akademis -- TIF 2018\Coding Mandiri\Semester 2\AsistenBelajar\AsistenBelajar\bin\Debug\EntityFramework.SqlServer.xml
+D:\Universitas Gadjah Mada\Akademis -- TIF 2018\Coding Mandiri\Semester 2\AsistenBelajar\AsistenBelajar\obj\Debug\AsistenBelajar.csprojAssemblyReference.cache
+D:\Universitas Gadjah Mada\Akademis -- TIF 2018\Coding Mandiri\Semester 2\AsistenBelajar\AsistenBelajar\obj\Debug\AsistenBelajar.FormOperasi.resources
+D:\Universitas Gadjah Mada\Akademis -- TIF 2018\Coding Mandiri\Semester 2\AsistenBelajar\AsistenBelajar\obj\Debug\AsistenBelajar.FormUtama.resources
+D:\Universitas Gadjah Mada\Akademis -- TIF 2018\Coding Mandiri\Semester 2\AsistenBelajar\AsistenBelajar\obj\Debug\AsistenBelajar.Properties.Resources.resources
+D:\Universitas Gadjah Mada\Akademis -- TIF 2018\Coding Mandiri\Semester 2\AsistenBelajar\AsistenBelajar\obj\Debug\AsistenBelajar.csproj.GenerateResource.cache
+D:\Universitas Gadjah Mada\Akademis -- TIF 2018\Coding Mandiri\Semester 2\AsistenBelajar\AsistenBelajar\obj\Debug\AsistenBelajar.csproj.CoreCompileInputs.cache
+D:\Universitas Gadjah Mada\Akademis -- TIF 2018\Coding Mandiri\Semester 2\AsistenBelajar\AsistenBelajar\obj\Debug\AsistenBelajar.csproj.CopyComplete
+D:\Universitas Gadjah Mada\Akademis -- TIF 2018\Coding Mandiri\Semester 2\AsistenBelajar\AsistenBelajar\obj\Debug\AsistenBelajar.exe
+D:\Universitas Gadjah Mada\Akademis -- TIF 2018\Coding Mandiri\Semester 2\AsistenBelajar\AsistenBelajar\obj\Debug\AsistenBelajar.pdb
+D:\Universitas Gadjah Mada\Akademis -- TIF 2018\Coding Mandiri\Semester 2\AsistenBelajar\AsistenBelajar\bin\Debug\Google.Apis.Auth.dll
+D:\Universitas Gadjah Mada\Akademis -- TIF 2018\Coding Mandiri\Semester 2\AsistenBelajar\AsistenBelajar\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+D:\Universitas Gadjah Mada\Akademis -- TIF 2018\Coding Mandiri\Semester 2\AsistenBelajar\AsistenBelajar\bin\Debug\Google.Apis.Calendar.v3.dll
+D:\Universitas Gadjah Mada\Akademis -- TIF 2018\Coding Mandiri\Semester 2\AsistenBelajar\AsistenBelajar\bin\Debug\Google.Apis.Core.dll
+D:\Universitas Gadjah Mada\Akademis -- TIF 2018\Coding Mandiri\Semester 2\AsistenBelajar\AsistenBelajar\bin\Debug\Google.Apis.dll
+D:\Universitas Gadjah Mada\Akademis -- TIF 2018\Coding Mandiri\Semester 2\AsistenBelajar\AsistenBelajar\bin\Debug\Google.Apis.PlatformServices.dll
+D:\Universitas Gadjah Mada\Akademis -- TIF 2018\Coding Mandiri\Semester 2\AsistenBelajar\AsistenBelajar\bin\Debug\Newtonsoft.Json.dll
+D:\Universitas Gadjah Mada\Akademis -- TIF 2018\Coding Mandiri\Semester 2\AsistenBelajar\AsistenBelajar\bin\Debug\Google.Apis.pdb
+D:\Universitas Gadjah Mada\Akademis -- TIF 2018\Coding Mandiri\Semester 2\AsistenBelajar\AsistenBelajar\bin\Debug\Google.Apis.xml
+D:\Universitas Gadjah Mada\Akademis -- TIF 2018\Coding Mandiri\Semester 2\AsistenBelajar\AsistenBelajar\bin\Debug\Google.Apis.Auth.pdb
+D:\Universitas Gadjah Mada\Akademis -- TIF 2018\Coding Mandiri\Semester 2\AsistenBelajar\AsistenBelajar\bin\Debug\Google.Apis.Auth.xml
+D:\Universitas Gadjah Mada\Akademis -- TIF 2018\Coding Mandiri\Semester 2\AsistenBelajar\AsistenBelajar\bin\Debug\Google.Apis.Calendar.v3.pdb
+D:\Universitas Gadjah Mada\Akademis -- TIF 2018\Coding Mandiri\Semester 2\AsistenBelajar\AsistenBelajar\bin\Debug\Google.Apis.Calendar.v3.xml
+D:\Universitas Gadjah Mada\Akademis -- TIF 2018\Coding Mandiri\Semester 2\AsistenBelajar\AsistenBelajar\bin\Debug\Google.Apis.Core.pdb
+D:\Universitas Gadjah Mada\Akademis -- TIF 2018\Coding Mandiri\Semester 2\AsistenBelajar\AsistenBelajar\bin\Debug\Google.Apis.Core.xml
+D:\Universitas Gadjah Mada\Akademis -- TIF 2018\Coding Mandiri\Semester 2\AsistenBelajar\AsistenBelajar\bin\Debug\Newtonsoft.Json.xml
+D:\Universitas Gadjah Mada\Akademis -- TIF 2018\Semester 2\Praktikum PBO\Tugas Akhir\AsistenBelajar\AsistenBelajar\bin\Debug\Google.Apis.Auth.dll
+D:\Universitas Gadjah Mada\Akademis -- TIF 2018\Semester 2\Praktikum PBO\Tugas Akhir\AsistenBelajar\AsistenBelajar\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+D:\Universitas Gadjah Mada\Akademis -- TIF 2018\Semester 2\Praktikum PBO\Tugas Akhir\AsistenBelajar\AsistenBelajar\bin\Debug\Google.Apis.Calendar.v3.dll
+D:\Universitas Gadjah Mada\Akademis -- TIF 2018\Semester 2\Praktikum PBO\Tugas Akhir\AsistenBelajar\AsistenBelajar\bin\Debug\Google.Apis.Core.dll
+D:\Universitas Gadjah Mada\Akademis -- TIF 2018\Semester 2\Praktikum PBO\Tugas Akhir\AsistenBelajar\AsistenBelajar\bin\Debug\Google.Apis.dll
+D:\Universitas Gadjah Mada\Akademis -- TIF 2018\Semester 2\Praktikum PBO\Tugas Akhir\AsistenBelajar\AsistenBelajar\bin\Debug\Google.Apis.PlatformServices.dll
+D:\Universitas Gadjah Mada\Akademis -- TIF 2018\Semester 2\Praktikum PBO\Tugas Akhir\AsistenBelajar\AsistenBelajar\bin\Debug\Newtonsoft.Json.dll
+D:\Universitas Gadjah Mada\Akademis -- TIF 2018\Semester 2\Praktikum PBO\Tugas Akhir\AsistenBelajar\AsistenBelajar\bin\Debug\Google.Apis.pdb
+D:\Universitas Gadjah Mada\Akademis -- TIF 2018\Semester 2\Praktikum PBO\Tugas Akhir\AsistenBelajar\AsistenBelajar\bin\Debug\Google.Apis.xml
+D:\Universitas Gadjah Mada\Akademis -- TIF 2018\Semester 2\Praktikum PBO\Tugas Akhir\AsistenBelajar\AsistenBelajar\bin\Debug\Google.Apis.Auth.pdb
+D:\Universitas Gadjah Mada\Akademis -- TIF 2018\Semester 2\Praktikum PBO\Tugas Akhir\AsistenBelajar\AsistenBelajar\bin\Debug\Google.Apis.Auth.xml
+D:\Universitas Gadjah Mada\Akademis -- TIF 2018\Semester 2\Praktikum PBO\Tugas Akhir\AsistenBelajar\AsistenBelajar\bin\Debug\Google.Apis.Calendar.v3.pdb
+D:\Universitas Gadjah Mada\Akademis -- TIF 2018\Semester 2\Praktikum PBO\Tugas Akhir\AsistenBelajar\AsistenBelajar\bin\Debug\Google.Apis.Calendar.v3.xml
+D:\Universitas Gadjah Mada\Akademis -- TIF 2018\Semester 2\Praktikum PBO\Tugas Akhir\AsistenBelajar\AsistenBelajar\bin\Debug\Google.Apis.Core.pdb
+D:\Universitas Gadjah Mada\Akademis -- TIF 2018\Semester 2\Praktikum PBO\Tugas Akhir\AsistenBelajar\AsistenBelajar\bin\Debug\Google.Apis.Core.xml
+D:\Universitas Gadjah Mada\Akademis -- TIF 2018\Semester 2\Praktikum PBO\Tugas Akhir\AsistenBelajar\AsistenBelajar\bin\Debug\Newtonsoft.Json.xml
+D:\Universitas Gadjah Mada\Akademis -- TIF 2018\Semester 2\Praktikum PBO\Tugas Akhir\AsistenBelajar\AsistenBelajar\obj\Debug\AsistenBelajar.FormOperasi.resources
+D:\belajar\sem 2\OOPkuliah\AsistenBelajar\AsistenBelajar\AsistenBelajar\obj\Debug\AsistenBelajar.csprojAssemblyReference.cache
+D:\belajar\sem 2\OOPkuliah\AsistenBelajar\AsistenBelajar\AsistenBelajar\obj\Debug\AsistenBelajar.exe
+D:\belajar\sem 2\OOPkuliah\AsistenBelajar\AsistenBelajar\AsistenBelajar\obj\Debug\AsistenBelajar.pdb
+D:\belajar\sem 2\OOPkuliah\AsistenBelajar\AsistenBelajar\AsistenBelajar\bin\Debug\DatabaseAgenda.mdf
+D:\belajar\sem 2\OOPkuliah\AsistenBelajar\AsistenBelajar\AsistenBelajar\bin\Debug\DatabaseAgenda_log.ldf
+D:\belajar\sem 2\OOPkuliah\AsistenBelajar\AsistenBelajar\AsistenBelajar\bin\Debug\AsistenBelajar.exe.config
+D:\belajar\sem 2\OOPkuliah\AsistenBelajar\AsistenBelajar\AsistenBelajar\bin\Debug\AsistenBelajar.exe
+D:\belajar\sem 2\OOPkuliah\AsistenBelajar\AsistenBelajar\AsistenBelajar\bin\Debug\AsistenBelajar.pdb
+D:\belajar\sem 2\OOPkuliah\AsistenBelajar\AsistenBelajar\AsistenBelajar\bin\Debug\EntityFramework.dll
+D:\belajar\sem 2\OOPkuliah\AsistenBelajar\AsistenBelajar\AsistenBelajar\bin\Debug\EntityFramework.SqlServer.dll
+D:\belajar\sem 2\OOPkuliah\AsistenBelajar\AsistenBelajar\AsistenBelajar\bin\Debug\Google.Apis.Auth.dll
+D:\belajar\sem 2\OOPkuliah\AsistenBelajar\AsistenBelajar\AsistenBelajar\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+D:\belajar\sem 2\OOPkuliah\AsistenBelajar\AsistenBelajar\AsistenBelajar\bin\Debug\Google.Apis.Calendar.v3.dll
+D:\belajar\sem 2\OOPkuliah\AsistenBelajar\AsistenBelajar\AsistenBelajar\bin\Debug\Google.Apis.Core.dll
+D:\belajar\sem 2\OOPkuliah\AsistenBelajar\AsistenBelajar\AsistenBelajar\bin\Debug\Google.Apis.dll
+D:\belajar\sem 2\OOPkuliah\AsistenBelajar\AsistenBelajar\AsistenBelajar\bin\Debug\Google.Apis.PlatformServices.dll
+D:\belajar\sem 2\OOPkuliah\AsistenBelajar\AsistenBelajar\AsistenBelajar\bin\Debug\Newtonsoft.Json.dll
+D:\belajar\sem 2\OOPkuliah\AsistenBelajar\AsistenBelajar\AsistenBelajar\bin\Debug\EntityFramework.xml
+D:\belajar\sem 2\OOPkuliah\AsistenBelajar\AsistenBelajar\AsistenBelajar\bin\Debug\EntityFramework.SqlServer.xml
+D:\belajar\sem 2\OOPkuliah\AsistenBelajar\AsistenBelajar\AsistenBelajar\bin\Debug\Google.Apis.pdb
+D:\belajar\sem 2\OOPkuliah\AsistenBelajar\AsistenBelajar\AsistenBelajar\bin\Debug\Google.Apis.xml
+D:\belajar\sem 2\OOPkuliah\AsistenBelajar\AsistenBelajar\AsistenBelajar\bin\Debug\Google.Apis.Auth.pdb
+D:\belajar\sem 2\OOPkuliah\AsistenBelajar\AsistenBelajar\AsistenBelajar\bin\Debug\Google.Apis.Auth.xml
+D:\belajar\sem 2\OOPkuliah\AsistenBelajar\AsistenBelajar\AsistenBelajar\bin\Debug\Google.Apis.Calendar.v3.pdb
+D:\belajar\sem 2\OOPkuliah\AsistenBelajar\AsistenBelajar\AsistenBelajar\bin\Debug\Google.Apis.Calendar.v3.xml
+D:\belajar\sem 2\OOPkuliah\AsistenBelajar\AsistenBelajar\AsistenBelajar\bin\Debug\Google.Apis.Core.pdb
+D:\belajar\sem 2\OOPkuliah\AsistenBelajar\AsistenBelajar\AsistenBelajar\bin\Debug\Google.Apis.Core.xml
+D:\belajar\sem 2\OOPkuliah\AsistenBelajar\AsistenBelajar\AsistenBelajar\bin\Debug\Newtonsoft.Json.xml
+D:\belajar\sem 2\OOPkuliah\AsistenBelajar\AsistenBelajar\AsistenBelajar\obj\Debug\AsistenBelajar.FormOperasi.resources
+D:\belajar\sem 2\OOPkuliah\AsistenBelajar\AsistenBelajar\AsistenBelajar\obj\Debug\AsistenBelajar.FormUtama.resources
+D:\belajar\sem 2\OOPkuliah\AsistenBelajar\AsistenBelajar\AsistenBelajar\obj\Debug\AsistenBelajar.Properties.Resources.resources
+D:\belajar\sem 2\OOPkuliah\AsistenBelajar\AsistenBelajar\AsistenBelajar\obj\Debug\AsistenBelajar.csproj.GenerateResource.cache
+D:\belajar\sem 2\OOPkuliah\AsistenBelajar\AsistenBelajar\AsistenBelajar\obj\Debug\AsistenBelajar.csproj.CoreCompileInputs.cache
+D:\belajar\sem 2\OOPkuliah\AsistenBelajar\AsistenBelajar\AsistenBelajar\obj\Debug\AsistenBelajar.csproj.CopyComplete
